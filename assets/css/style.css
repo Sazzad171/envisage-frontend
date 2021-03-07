@@ -314,6 +314,10 @@ color: #C9AE96;
     background-repeat: no-repeat;
     background-position: center;
 }
+.magazine-single-item .description {
+    font-size: 14px;
+}
+
 /* about section start */
 .about-section {
     background: #E8E9E2 !important;
@@ -542,4 +546,9 @@ color: #C9AE96;
 .mobile-collapse-area .menu-bottom .nav-link {
     font-family: 'ParishProUltraExtraLight';
     font-size: 13px;
+}
+
+/* magazine details area */
+.magazine-page.left-fixed-menu {
+    width: 90px;
 }

@@ -78,6 +78,13 @@
   .in-touch-section .contact-left {
     padding: 3% 5px;
   }
+  .project-area .project-img {
+    max-height: 17vh;
+    padding-bottom: 5px;
+  }
+  .in-touch-section .w-100-mobile {
+    max-width: 100%;
+  }
 }
 /* =========== Wide Mobile Layout: 575px =============== */
 @media(max-width:576px){

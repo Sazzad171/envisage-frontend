@@ -757,11 +757,20 @@ a:hover {
 .color-black {
     color: #282828;
 }
+.color-black:hover {
+    color: #282828;
+}
 .color-white {
     color: #fff !important;
 }
 .coffee-color {
     color: #C9AE96 !important;
+}
+.color-brown {
+    color: #c6957b !important;
+}
+.color-brown:hover {
+    color: #c6957b !important;
 }
 
 /* background color  */
