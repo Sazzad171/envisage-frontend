@@ -281,9 +281,9 @@ color: #C9AE96;
 /* carousel customize */
 .home-section .carousel-item {
     background: url('../images/home-bg.jpg');
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .home-section .carousel-control-prev img,
 .home-section .carousel-control-next img {
@@ -292,6 +292,14 @@ background-position: center;
 }
 .home-section .carousel-control-next {
     right: 25%;
+}
+/* mobile home area */
+.mobile-home-area .top-img-area {
+    height: 70vh;
+    background: url('../images/journal-img.PNG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 /* journal section start */
