@@ -1,0 +1,93 @@
+/* container-fluid customize */
+@media (min-width:1350px) {
+
+}
+
+/* max-width: 1440px */
+@media (max-width:1440px){
+
+}
+
+/* =========== Medium Layout: 1280px =============== */
+@media (max-width:1200px){
+  
+}
+
+/* =========== Tablet Layout: 768px =============== */
+@media (max-width:991px){
+
+}
+
+/* =========== Mobile Layout: 767px =============== */
+@media (max-width:767px){
+  h1 {
+    font-size: 38px;
+  }
+  h2 {
+    font-size: 32px;
+  }
+  h3 {
+    font-size: 28px;
+  }
+  h4 {
+    font-size: 22px;
+  }
+  h5 {
+    font-size: 18px;
+  }
+  h6 {
+    font-size: 15px;
+  }
+  p {
+    font-size: 14px;
+  }
+  .btn {
+    font-size: 14px;
+  }
+  .home-section .bottom-button-area {
+    padding: 20px 10px;
+  }
+  .specialities-section .first-col,
+  .specialities-section .second-col,
+  .specialities-section .third-col,
+  .specialities-section .fourth-col {
+    height: 50vh !important;
+  }
+  .specialities-section .wraper {
+    padding-top: 15vh;
+  }
+  .specialities-section .section-logo.mobile-logo {
+    right: unset;
+    left: 3%;
+  }
+  .specialities-section .second-col {
+    order: -1;
+  }
+  .in-touch-section .btn-submit {
+    width: 100%;
+  }
+  .text-mobile-30 {
+    font-size: 30px !important;
+  }
+  .and-img-with-text {
+    flex-direction: column;
+  }
+  .font-mobile-20 {
+    font-size: 20px !important;
+  }
+  .in-touch-section .contact-left {
+    padding: 3% 5px;
+  }
+}
+/* =========== Wide Mobile Layout: 575px =============== */
+@media(max-width:576px){
+
+}
+
+@media(max-width:440px) {
+  
+}
+
+@media(max-width:380px) {
+
+}
