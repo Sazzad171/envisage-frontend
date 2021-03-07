@@ -506,10 +506,12 @@ color: #C9AE96;
     right: 0;
     z-index: 10000;
 }
-.mobile-burger-btn i {
-    background: #aaaaaa9c;
-    padding: 10px 14px;
+.mobile-burger-btn img {
+    background: #aaaaaa4f;
+    padding: 14px;
     cursor: pointer;
+    width: 60px;
+    height: auto;
 }
 /* mobile collapse area */
 .mobile-collapse-area {
